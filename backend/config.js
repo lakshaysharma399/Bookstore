@@ -1,0 +1,1 @@
+export const mongoURL =  'mongodb+srv://lakshaysharma:lakshaysharma@cluster0.tuxze8v.mongodb.net/books-collection?retryWrites=true&w=majority'
